@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Qwitcher+Grypen&size=50&letterSpacing=large&pause=1000&center=true&width=435&lines=I'm+an+A+Android+Developer;I'm+an+A+Civil+Engineer" alt="Headline" />
 </div>
 
+“I may not be able to see you, there may be hundreds of miles between us but I'll always be looking your way. I'll be watching over you forever.”
+― Makarov Dreyar Hiro mashima
+
 <br/>
 <br/>
 
